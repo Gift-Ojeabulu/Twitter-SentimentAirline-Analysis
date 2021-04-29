@@ -10,4 +10,3 @@ $ pip install streamlit <br />
 $ streamlit run dashboard.py <br />
 or <br/>
 see it on streamlit <br />
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/matteobiviano/tweets-analysis-dashboard/main/dashboard.py)
