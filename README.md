@@ -5,10 +5,6 @@ The goal of the project is to visualize various types of analysis (data driven a
 # Example
 ![Example 1](https://github.com/MatteoBiviano/tweets_analysis_dashboard/blob/main/examples/app_example_1.gif?raw=true)
 
-# Run
-$ pip install streamlit <br />
-$ streamlit run dashboard.py <br />
-or <br/>
-see it on streamlit <br />
+
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/twitter-sentiment-analysis/main/dashboard.py)
