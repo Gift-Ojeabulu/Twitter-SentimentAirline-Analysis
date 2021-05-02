@@ -10,4 +10,5 @@ $ pip install streamlit <br />
 $ streamlit run dashboard.py <br />
 or <br/>
 see it on streamlit <br />
-https://share.streamlit.io/gift-ojeabulu/twitter-sentiment-analysis/main/dashboard.py
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/twitter-sentiment-analysis/main/dashboard.py)
