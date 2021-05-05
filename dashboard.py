@@ -40,7 +40,7 @@ def main():
 		set_background(True, "Twitter US Airline Analysis")
 
 
-	st.sidebar.markdown("[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/MatteoBiviano/tweets-analysis-dashboard)")
+	st.sidebar.markdown("[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gift-Ojeabulu/Tweets-sentiment-webapp)")
 	st.sidebar.markdown("[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gift-ojabu/)")
 	
 	
